@@ -48,6 +48,59 @@ mood: "✧˖°.  soft chaos  .°˖✧"
 
 <div align="center">
 
+### ⋆｡˚ ✧ projects ✧ ˚｡⋆
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**📊 [UPI Payments Trend Analysis](https://github.com/Pratyasha-worm/upi-payments-trend-analysis)**
+<br>Analysis of UPI payment trends — data exploration, patterns, and insights.
+
+</td>
+<td width="50%" valign="top">
+
+**📑 3-Statement Financial Model**
+<br>Integrated Income Statement / Balance Sheet / Cash Flow build with scenario toggles and debt-sweep mechanics, projected FY27E–FY29E.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📉 Budget vs. Actual Variance Pack**
+<br>Monthly BvA reporting pack with PVM and rate/usage bridges for FY2027.
+
+</td>
+<td width="50%" valign="top">
+
+**💵 13-Week Rolling Cash Flow Forecast**
+<br>Direct-method weekly cash forecast at the operating level.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📈 Executive KPI Dashboard**
+<br>Multi-business-unit performance dashboard, FY2022A–FY2029E, toggled by business unit / fiscal year / scenario.
+
+</td>
+<td width="50%" valign="top">
+
+**👥 Headcount & Capacity Model**
+<br>Employee-level personnel cost model across Sales, Production, and G&A for FY2027.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
 ### ✩ ₊˚.⋆☾⋆⁺₊✧ stats ✧₊⁺⋆☽⋆.˚₊✩
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pratyasha-worm&show_icons=true&hide_border=true&bg_color=00000000&title_color=a83232&icon_color=a83232&text_color=ffe9e9&ring_color=550000" height="165"/>
