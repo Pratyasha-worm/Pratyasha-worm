@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/galaxy-banner.svg" width="100%"/>
+<img src="galaxy-banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=22&duration=3000&pause=800&color=FF3B3B&center=true&vCenter=true&width=500&lines=welcome+to+my+profile+%E2%9C%A7;coding+%2B+stardust+%2B+chaos;always+building+something+new" alt="Typing SVG" />
 
 </div>
 
-<img src="assets/star-divider.svg" width="100%"/>
+<img src="star-divider.svg" width="100%"/>
 
 <table align="center">
 <tr>
@@ -42,7 +42,7 @@ mood: "✧˖°.  soft chaos  .°˖✧"
 </tr>
 </table>
 
-<img src="assets/star-divider.svg" width="100%"/>
+<img src="star-divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -56,7 +56,7 @@ mood: "✧˖°.  soft chaos  .°˖✧"
 
 </div>
 
-<img src="assets/star-divider.svg" width="100%"/>
+<img src="star-divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -123,7 +123,7 @@ mood: "✧˖°.  soft chaos  .°˖✧"
 
 </div>
 
-<img src="assets/star-divider.svg" width="100%"/>
+<img src="star-divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -140,7 +140,7 @@ mood: "✧˖°.  soft chaos  .°˖✧"
 
 </div>
 
-<img src="assets/star-divider.svg" width="100%"/>
+<img src="star-divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -158,7 +158,7 @@ mood: "✧˖°.  soft chaos  .°˖✧"
 
 </div>
 
-<img src="assets/star-divider.svg" width="100%"/>
+<img src="star-divider.svg" width="100%"/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Pratyasha-worm&style=flat-square&color=a83232&label=profile+visitors" />
