@@ -58,40 +58,46 @@ mood: "✧˖°.  soft chaos  .°˖✧"
 
 **📊 [UPI Payments Trend Analysis](https://github.com/Pratyasha-worm/upi-payments-trend-analysis)**
 <br>Analysis of UPI payment trends — data exploration, patterns, and insights.
+<br><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/>
 
 </td>
 <td width="50%" valign="top">
 
-**📑 3-Statement Financial Model**
+**📑 [3-Statement Financial Model](https://1drv.ms/x/c/BC514375A3B2F543/IQC3Hytp9H7kQ4QfiENE-hUEAbvLktpEpNmoFemkKaFhmh8)**
 <br>Integrated Income Statement / Balance Sheet / Cash Flow build with scenario toggles and debt-sweep mechanics, projected FY27E–FY29E.
+<br><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="20"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📉 Budget vs. Actual Variance Pack**
+**📉 [Budget vs. Actual Variance Pack](https://1drv.ms/x/c/BC514375A3B2F543/IQDRAlO9bZ-HT4kkRV7cQpDGASYo179lD-aZ4pucJYVKaGc)**
 <br>Monthly BvA reporting pack with PVM and rate/usage bridges for FY2027.
+<br><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="20"/>
 
 </td>
 <td width="50%" valign="top">
 
-**💵 13-Week Rolling Cash Flow Forecast**
+**💵 [13-Week Rolling Cash Flow Forecast](https://1drv.ms/x/c/BC514375A3B2F543/IQAnIedeKCYyRIrLPR5waLC2ASMuBpXW6mwOxTMpyv5487o)**
 <br>Direct-method weekly cash forecast at the operating level.
+<br><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="20"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📈 Executive KPI Dashboard**
+**📈 [Executive KPI Dashboard](https://1drv.ms/x/c/BC514375A3B2F543/IQA1jYesSm4HQrSDSqwBAYHRAeUYacP6285qh2oKfrWaDkE)**
 <br>Multi-business-unit performance dashboard, FY2022A–FY2029E, toggled by business unit / fiscal year / scenario.
+<br><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="20"/>
 
 </td>
 <td width="50%" valign="top">
 
-**👥 Headcount & Capacity Model**
+**👥 [Headcount & Capacity Model](https://1drv.ms/x/c/BC514375A3B2F543/IQAayainXxriSb5_wBxYq7ikAeTNnpj7M4cLU_3CvY2xSms)**
 <br>Employee-level personnel cost model across Sales, Production, and G&A for FY2027.
+<br><img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="20"/>
 
 </td>
 </tr>
