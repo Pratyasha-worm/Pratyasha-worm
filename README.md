@@ -17,8 +17,11 @@
 ⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆
 
 - 🌙 pronouns: *she/her*
+- 💼 Financial Analyst @ **UKG (Kronos India Ltd)** — Power BI dashboards, KPI tracking & management reporting
+- 🎓 MSc Accounting & Finance, O.P. Jindal Global University *(pursuing)* · B.A. Economics, University of Delhi
+- 📜 ACCA candidate — 9/13 papers cleared
 - 💌 currently exploring: `Python, SQL, Excel, Power BI, Anaconda`
-- 🌠 always tinkering about something new
+- 🌠 always tinkering about something new — FP&A models, dashboards, automation
 - ✨ chronically online, unapologetically so
 
 ⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆
@@ -31,7 +34,10 @@
 ⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆
 
 ```yaml
+role: "Financial Analyst @ UKG"
 status: "creating solutions, one commit at a time"
+building: "SM Times — a personal financial news tracker & Substack companion"
+studying: "ACCA (9/13) + MSc Accounting & Finance"
 listening_to: "[my fav playlist ↗](https://open.spotify.com/playlist/37i9dQZF1E8LSl1TJJYIaa)"
 mood: "✧˖°.  soft chaos  .°˖✧"
 ```
