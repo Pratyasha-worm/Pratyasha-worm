@@ -8,45 +8,21 @@
 
 <img src="star-divider.svg" width="100%"/>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### ⋆｡˚ ✧ about me ✧ ˚｡⋆
+## Pratyasha Verma
+### Financial Analyst · FP&A · Power BI Dashboards
 
-⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆
+📍 Ghaziabad, India &nbsp;·&nbsp; she/her &nbsp;·&nbsp; 🟢 open to interesting work
 
-- 🌙 pronouns: *she/her*
-- 💼 Financial Analyst @ **UKG (Kronos India Ltd)** — Power BI dashboards, KPI tracking & management reporting
-- 🎓 MSc Accounting & Finance, O.P. Jindal Global University *(pursuing)* · B.A. Economics, University of Delhi
-- 📜 ACCA candidate — 9/13 papers cleared
-- 💌 currently exploring: `Python, SQL, Excel, Power BI, Anaconda`
-- 🌠 always tinkering about something new — FP&A models, dashboards, automation
-- ✨ chronically online, unapologetically so
+Finance professional with hands-on experience building management reporting and automation solutions. Currently a **Financial Analyst at UKG (Kronos India Ltd)**, designing Power BI dashboards and Excel-based automation for KPI tracking and management reporting. Pursuing an **MSc in Accounting & Finance** at O.P. Jindal Global University alongside the **ACCA (9/13 papers cleared)**. Outside the day job, I build FP&A models for fun, write about markets on Substack, and run *SM Times* — a personal financial news tracker.
 
-⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆
+`Python` `SQL` `Excel` `Power BI` `Anaconda`
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 🪐 currently
+<br>
 
-⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆
-
-```yaml
-role: "Financial Analyst @ UKG"
-status: "creating solutions, one commit at a time"
-building: "SM Times — a personal financial news tracker & Substack companion"
-studying: "ACCA (9/13) + MSc Accounting & Finance"
-listening_to: "[my fav playlist ↗](https://open.spotify.com/playlist/37i9dQZF1E8LSl1TJJYIaa)"
-mood: "✧˖°.  soft chaos  .°˖✧"
-```
-
-⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆　✦　⋆
-
-</td>
-</tr>
-</table>
 
 <img src="star-divider.svg" width="100%"/>
 
